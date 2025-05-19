@@ -1,0 +1,5 @@
+What is the size of int in Java?;8 bits;16 bits;32 bits;64 bits;C
+Which keyword is used to inherit a class in Java?;this;super;import;extends;D
+Which of the following is not a Java feature?;Object-Oriented;Use of pointers;Portable;Dynamic;B
+What is the default value of a boolean variable in Java?;true;false;0;null;B
+Which method is the entry point of a Java program?;start();init();main();run();C
